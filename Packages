@@ -1,0 +1,14 @@
+Package: com.tigerstar.itranslate
+Version: 0.0.1-5
+Architecture: iphoneos-arm
+Maintainer: Melih Erdem <melih@erdemlerhali.com.tr>
+Depends: 
+Filename: /itranslate
+Size: 9,506
+MD5sum: D4D3192150BA65511FE695185C3128F8
+SHA1: 5F9E678BBD582F168094CC578B0761674AF830D9
+SHA256: C57331C9C59C331CAF2F7C44110EBF69D68AFCD7379E9E64368D1F64B1DA3419
+Section: Tweaks
+Description: Hızlı çeviri tweaki
+Author: Melih Erdem <melih@erdemlerhali.com.tr>
+Name: itranslate
